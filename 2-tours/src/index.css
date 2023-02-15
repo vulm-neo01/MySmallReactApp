@@ -122,15 +122,15 @@ p {
 /*  global classes */
 
 /* section */
-.section {
+section {
   width: 90vw;
   margin: 0 auto;
   max-width: var(--max-width);
 }
 
 @media screen and (min-width: 992px) {
-  .section {
-    width: 95vw;
+  section {
+    width: 60vw;
   }
 }
 .btn {
